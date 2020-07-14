@@ -28,7 +28,7 @@ export class HomePage {
     {
       name: "Sugar",
       quantity: 1    
-    },
+    }
   ];
 
   constructor(public navCtrl: NavController, public toastCtrl: ToastController, public alertCtrl: AlertController) {
